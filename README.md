@@ -13,7 +13,7 @@
    &nbsp;
   <a href="https://www.linkedin.com/in/giovana-a-a1795a117/" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a> 
 
-  <a align="center" href="https://github-readme-stats.vercel.app/api/wakatime?username=Gipria"><img align="center" src="https://github-readme-stats.vercel.app/api/wakatime?username=Gipria&layout=compact&text_color=576258&bg_color=172226" />
+  <a align="center" href="https://github-readme-stats.vercel.app/api/wakatime?username=Gipria"><img align="center" src="https://github-readme-stats.vercel.app/api/wakatime?username=Gipria&layout=compact&text_color=748f88&bg_color=1d4d49" />
 </a>
 
 
