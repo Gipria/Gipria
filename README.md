@@ -1,5 +1,5 @@
-<h2>Hi</h2>
-
+<h2>Olá!  <img  width="70" height="70" src="https://user-images.githubusercontent.com/71566094/153084584-cd563643-83f0-4da4-99ba-89cd78de7b34.png">
+</h2>
 
   <div>
     <a href="https://github.com/Gipria">
