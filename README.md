@@ -9,7 +9,7 @@
   <hr>
   
                        
-<a href="https://www.urionlinejudge.com.br/judge/pt/profile/535374"><img width="50" height="30" src="https://user-images.githubusercontent.com/71566094/128444449-637bc967-0336-4dbe-a5ab-e27dbad192a4.png" target="_blank"></a>
+<a href="https://www.urionlinejudge.com.br/judge/pt/profile/535374"><img width="50" height="30" src="https://user-images.githubusercontent.com/71566094/153079503-56b4352f-a69e-41ff-ac60-b0c6505e1f94.png" target="_blank"></a>
    &nbsp;
   <a href="https://www.linkedin.com/in/giovana-a-a1795a117/" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a> 
 
