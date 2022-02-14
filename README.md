@@ -15,7 +15,7 @@
 
   <a href="https://github-readme-stats.vercel.app/api/wakatime?username=Gipria">
     <img align="left" src="https://github-readme-stats.vercel.app/api/wakatime?username=Gipria&layout=compact&text_color=72e8af&bg_color=193549" style="max-width:100%; padding-right:0" />
-   <a href="https://wakatime.com/@Gipria"><img  width="331" height="250"  src="https://wakatime.com/share/@Gipria/ae979f41-9163-40c1-adfc-3717fb477ada.png" /></a>
+   <a href="https://wakatime.com/@Gipria"><img  width="331" height="250"  src="https://wakatime.com/share/@Gipria/4eaa055e-d5b0-4c7e-b142-8e13ebc2a815.svg" /></a>
 </a>
 
 
